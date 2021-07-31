@@ -11,8 +11,8 @@ xxxxx
 #### Data Source
 Here are my data sources:
 * [flower data](https://www.bbc.co.uk)
-* **XXX data**
-* ***YYY DATA ***
+* **XXX data
+* ***YYY DATA
 
 #### Data Dictionary
 
