@@ -10,7 +10,7 @@ xxxxx
 
 #### Data Source
 Here are my data sources:
-* [flower data](https:www.bbc.co.uk)
+* [flower data](https://www.bbc.co.uk)
 * XXX data
 * YYY data
 
@@ -23,6 +23,9 @@ Clean Data. <br>
 Missing Data.
 
 ### Features
+1. StandardScaler on X feature
+2. MinMaxScaler on Y feature
+3. Log transform on Z feature
 
 ### Modelling
 
