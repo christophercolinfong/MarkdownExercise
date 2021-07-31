@@ -11,16 +11,21 @@ xxxxx
 #### Data Source
 Here are my data sources:
 * [flower data](https://www.bbc.co.uk)
-* **XXX data **
-* ***YYY DATA ***
+* XXX data 
+* YYY DATA
 
 #### Data Dictionary
+| Column Name | Description |
+|-------------|:------------|
+|sepal width  | This is the sepal width |
+|sepal length | This is the sepal length |
+|-------------|:------------|
 
 #### Data Processing
 
 What I did to explore data.<br>
-Clean Data. <br>
-Missing Data.
+**Clean Data.** <br>
+***Missing Data.***
 
 ### Features
 1. StandardScaler on X feature
